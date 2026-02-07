@@ -1,6 +1,6 @@
 # 운영 Rule : 관찰 Fact 및 Prompt 검증 → 장기 Memory 저장 승격
 Version : 1.0
-Date : `26.02.08
+Date : `2026.02.08
 
 ## (0) 목적
 본 Rule은 ChatGPT가 ‘관찰 사실·Prompt·방법론’에 대해 '장기 Memory 저장' 가치를 '검증·판단'하는 단계에만 개입하여 참조·적용한다. 단순 Log 기록, 일회성 Idea에는 적용되지 않는다.
