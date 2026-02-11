@@ -21,16 +21,12 @@ Date : `2026.02.08
  - “Hallucination 통제 안전 장치” Check List
 
 ### C. 사용 결과, 재현성에 대한 기록 - 검증 판단에 필요한 근거
-어느 주제에서 잘 먹혔는지 / 안 먹혔는지
-실패 Pattern ( Hallucination / 오해 / 톤 Risk / 이해관계 미반영, 등)
-개선 사항 : Version Update 시 변경 필요 부분
+어느 주제에서 효과적인지 여부, 실패 Pattern ( Hallucination / 오해 / 톤 Risk / 이해관계 미반영, 등), 개선 사항 ( Version Update 시 변경 필요 부분 )
 
 ## (2) 기록 Format - 권장 Templete
 [Entry Template]
-Date , Context(주제 / 상황) , AI 그리고 Human R&R , 사용한 방법론(이름) , Prompt(가능한 원문) , 결과 요약(장/단점, 문제점) , Hallucination / Risk Check , 재현성 평가(0~5점), 다음 Version 변경안(+v0.1)
-검증 대상 여부 : [ Y / N / Others ]
-SSOT 기준 검증 여부 : [ 최신 Rule 기준 검증 / 타 조건 검증 / 미검증 ]
-* SSOT : Single Source of Truth
+Date , Context(주제 / 상황) , 사용자와 AI 각각의 R&R , 사용한 방법론 ( 이름 ) , Prompt ( 가능한 원문 ) , 결과 요약 ( 장/단점, 문제점 ) , Hallucination / Risk Check , 재현성 평가 ( 0~5점 ), 다음 Version 변경안 ( +v0.1 )
+검증 대상 여부 : [ Y / N / Others ] , SSOT 기준 검증 여부 : [ 최신 Rule 기준 검증 / 타 조건 검증 / 미검증 ]
 
 ## (3) 방법론 카탈로그   예시) 당신이 이미 가진 ‘강점 기반’
 예시이며 향후 추가, 삭제, 통합 가능함
